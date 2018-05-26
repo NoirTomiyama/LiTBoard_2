@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "679732928124",
+    "firebase_url": "https://litboard-9a5f6.firebaseio.com",
+    "project_id": "litboard-9a5f6",
+    "storage_bucket": "litboard-9a5f6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:679732928124:android:53198f198c957d87",
+        "android_client_info": {
+          "package_name": "com.lifeistech.android.litboard"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "679732928124-f079mr92dmq7o0dl81k5d9cpkear6rht.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAA-0nI8XZYHf_45YHSl2AQJeHDmRgWt74"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
